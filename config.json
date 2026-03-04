@@ -7,21 +7,9 @@
     "links": [
       {
         "href": "#",
-        "name": "Docs"
-      },
-      {
-        "href": "#",
-        "name": "Blog"
-      },
-      {
-        "href": "#",
-        "name": "Changelog"
+        "name": "About"
       }
-    ],
-    "cta": {
-      "name": "Sign In",
-      "href": "#"
-    }
+    ]
   },
   "social": [
     {
