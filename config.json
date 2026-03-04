@@ -1,0 +1,39 @@
+{
+  "logo": "🌸",
+  "favicon": "🌸",
+  "showSidebar": false,
+  "title": "Art & Poetry Blog",
+  "nav": {
+    "links": [
+      {
+        "href": "#",
+        "name": "Docs"
+      },
+      {
+        "href": "#",
+        "name": "Blog"
+      },
+      {
+        "href": "#",
+        "name": "Changelog"
+      }
+    ],
+    "cta": {
+      "name": "Sign In",
+      "href": "#"
+    }
+  },
+  "social": [
+    {
+      "label": "x",
+      "href": "#",
+      "name": "X"
+    },
+    {
+      "label": "substack",
+      "href": "#",
+      "name": "Substack"
+    }
+  ],
+  "showEditLink": true
+}

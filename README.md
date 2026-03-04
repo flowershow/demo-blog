@@ -1,0 +1,7 @@
+# The Muse & The Canvas
+
+Welcome to a space where poetry meets visual art. Here you'll find reflections on verse, brushstrokes, creative process, and the quiet moments that make us reach for a pen or a paintbrush.
+
+## Latest Posts
+
+<List dir="/blog"/>
