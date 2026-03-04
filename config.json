@@ -35,5 +35,7 @@
       "name": "Substack"
     }
   ],
-  "showEditLink": true
+  "theme": {
+    "theme": "lessflowery"
+  }
 }
