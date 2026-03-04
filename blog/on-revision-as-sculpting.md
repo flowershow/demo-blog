@@ -3,7 +3,7 @@ description: Revision is not fixing mistakes — it is discovering what the poem
 date: 2026-01-05
 image: "[[photo5.png]]"
 authors:
-  - Marcus Okafor
+  - marcus-okafor
 ---
 
 # On Revision as Sculpting
@@ -22,7 +22,7 @@ Try this exercise: take a draft and cut it in half. Not by trimming a word here 
 
 Often, the poem that emerges from this violence is sharper and more surprising than the original. You discover that the third stanza was doing the work of the entire piece. The rest was scaffolding.
 
-Elizabeth Bishop famously revised "One Art" through seventeen drafts. If you look at the progression, the poem doesn't get *better* in a linear way. It gets *more itself*. Each draft peels away a layer that isn't quite right until the final version feels inevitable — as if it could not have been written any other way.
+Elizabeth Bishop famously revised "One Art" through seventeen drafts. If you look at the progression, the poem doesn't get _better_ in a linear way. It gets _more itself_. Each draft peels away a layer that isn't quite right until the final version feels inevitable — as if it could not have been written any other way.
 
 ## When to Stop
 

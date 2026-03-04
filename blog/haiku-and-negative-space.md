@@ -3,14 +3,14 @@ description: What haiku and minimalist painting share — an exploration of nega
 date: 2026-01-18
 image: "[[photo3.jpg]]"
 authors:
-  - Sana Hayashi
+  - sana-hayashi
 ---
 
 # Haiku and Negative Space
 
-In Japanese aesthetics, *ma* is the concept of negative space — the emptiness between objects that gives them definition. It is the silence between notes, the white of the canvas around a single branch of plum blossoms, the pause between breaths in a conversation.
+In Japanese aesthetics, _ma_ is the concept of negative space — the emptiness between objects that gives them definition. It is the silence between notes, the white of the canvas around a single branch of plum blossoms, the pause between breaths in a conversation.
 
-Haiku is *ma* made literary.
+Haiku is _ma_ made literary.
 
 ## The Space Around the Words
 

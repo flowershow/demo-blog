@@ -3,7 +3,7 @@ description: Exploring the surprising parallels between how painters use color a
 date: 2025-11-15
 image: "[[photo1.jpg]]"
 authors:
-  - Marcus Okafor
+  - marcus-okafor
 ---
 
 # Color Theory for Poets
@@ -14,7 +14,7 @@ I spent a semester in art school before dropping out to study literature. That s
 
 Painters speak of warm and cool colors. Warm tones — reds, oranges, yellows — advance toward the viewer. Cool tones — blues, greens, violets — recede. A painting lives in the tension between these two forces.
 
-Poetry has its own temperature. Words with open vowels (*ocean*, *alone*, *morning*) tend to feel warm. Words with hard consonants and closed vowels (*click*, *strict*, *block*) feel cooler, more contained. A skilled poet modulates between these temperatures the way a painter layers warm glazes over cool underpaintings.
+Poetry has its own temperature. Words with open vowels (_ocean_, _alone_, _morning_) tend to feel warm. Words with hard consonants and closed vowels (_click_, _strict_, _block_) feel cooler, more contained. A skilled poet modulates between these temperatures the way a painter layers warm glazes over cool underpaintings.
 
 ## Complementary Sounds
 

@@ -3,7 +3,7 @@ description: A practical guide to using museum visits as a generative writing pr
 date: 2026-01-30
 image: "[[photo6.png]]"
 authors:
-  - Elena Voss
+  - elena-voss
 ---
 
 # The Museum as Writing Prompt
@@ -16,13 +16,13 @@ Here's how I use museum visits as a generative practice.
 
 Bring a small notebook, not your regular writing journal. Something cheap and unintimidating. The goal is to capture fragments, not compose finished work.
 
-Leave your phone in your bag. If you must photograph something, do it quickly and move on. The camera creates an illusion of attention — you think you've *seen* something because you've captured it, but you've only collected it. Seeing takes time.
+Leave your phone in your bag. If you must photograph something, do it quickly and move on. The camera creates an illusion of attention — you think you've _seen_ something because you've captured it, but you've only collected it. Seeing takes time.
 
 ## In the Gallery
 
 ### Exercise 1: The Slow Look
 
-Choose one work and sit with it for twenty minutes. No writing for the first ten. Just look. Notice what your eye does — where it enters the painting, where it rests, where it resists going. After ten minutes, start writing what you see. Not what it means. What you *see*.
+Choose one work and sit with it for twenty minutes. No writing for the first ten. Just look. Notice what your eye does — where it enters the painting, where it rests, where it resists going. After ten minutes, start writing what you see. Not what it means. What you _see_.
 
 ### Exercise 2: Overheard at the Museum
 
@@ -44,10 +44,10 @@ When you do sit down to write — maybe the next morning, maybe three days later
 
 ## A Reading List for Museum Poets
 
-- *Museum of Words* by Georgia Heard
-- *Pictures from Brueghel* by William Carlos Williams
-- *Art & Lies* by Jeanette Winterson
-- *The Art of Looking* by Lance Esplund
-- *Citizen* by Claudia Rankine (for its engagement with visual culture)
+- _Museum of Words_ by Georgia Heard
+- _Pictures from Brueghel_ by William Carlos Williams
+- _Art & Lies_ by Jeanette Winterson
+- _The Art of Looking_ by Lance Esplund
+- _Citizen_ by Claudia Rankine (for its engagement with visual culture)
 
 The museum is not just a place to look at art. It is a place to practice the kind of attention that makes all art — including the art of writing — possible.

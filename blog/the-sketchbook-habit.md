@@ -3,7 +3,7 @@ description: How keeping a daily sketchbook changed my writing practice — and 
 date: 2025-12-14
 image: "[[photo8.jpg]]"
 authors:
-  - Sana Hayashi
+  - sana-hayashi
 ---
 
 # The Sketchbook Habit

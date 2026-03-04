@@ -3,8 +3,8 @@ description: How landscape functions as metaphor in both poetry and painting —
 date: 2026-02-22
 image: "[[photo4.jpg]]"
 authors:
-  - Sana Hayashi
-  - Marcus Okafor
+  - sana-hayashi
+  - marcus-okafor
 ---
 
 # Landscape as Metaphor
@@ -26,7 +26,7 @@ Caspar David Friedrich did the same thing in paint. His figures stand with their
 
 Contemporary artists have complicated the Romantic landscape. They ask: whose landscape? Who was displaced from this pastoral scene? What histories does the beautiful view conceal?
 
-Claudia Rankine's *Citizen* uses the landscape of the American suburb as a site of racial violence. The lawns are manicured. The language is calm. The effect is devastating.
+Claudia Rankine's _Citizen_ uses the landscape of the American suburb as a site of racial violence. The lawns are manicured. The language is calm. The effect is devastating.
 
 In visual art, Anselm Kiefer's scorched landscapes reference German history — fields that are simultaneously beautiful and ruined, fertile and cursed. The land remembers what we try to forget.
 

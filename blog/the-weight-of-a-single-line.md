@@ -3,7 +3,7 @@ description: Why a single line of poetry can carry more weight than an entire no
 date: 2025-11-02
 image: "[[photo9.jpg]]"
 authors:
-  - Elena Voss
+  - elena-voss
 ---
 
 # The Weight of a Single Line
@@ -20,7 +20,7 @@ Consider Basho:
 > a frog jumps in,
 > sound of water.
 
-Seventeen syllables. An entire philosophy of attention. You could write a dissertation unpacking what happens in that small splash, and people have. But the poem itself needs no footnotes. It *is* the experience it describes.
+Seventeen syllables. An entire philosophy of attention. You could write a dissertation unpacking what happens in that small splash, and people have. But the poem itself needs no footnotes. It _is_ the experience it describes.
 
 ## The Line as Unit of Thought
 

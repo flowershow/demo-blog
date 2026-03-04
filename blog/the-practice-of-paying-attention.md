@@ -3,9 +3,9 @@ description: Attention is the beginning of all art. A meditation on how poets an
 date: 2026-03-04
 image: "[[photo7.jpg]]"
 authors:
-  - Elena Voss
-  - Sana Hayashi
-  - Marcus Okafor
+  - elena-voss
+  - sana-hayashi
+  - marcus-okafor
 ---
 
 # The Practice of Paying Attention
@@ -36,7 +36,7 @@ Like any capacity, attention can be trained. Some methods:
 
 ## Attention as Ethics
 
-Simone Weil wrote that attention is the rarest and purest form of generosity. When we truly attend to something — a person, a landscape, a work of art — we are giving it the gift of our full presence. We are saying: *you are worth my time. You are worth my seeing.*
+Simone Weil wrote that attention is the rarest and purest form of generosity. When we truly attend to something — a person, a landscape, a work of art — we are giving it the gift of our full presence. We are saying: _you are worth my time. You are worth my seeing._
 
 In a culture that rewards distraction, that monetizes the scattered gaze, the choice to pay deep attention is almost a political act. Every poem, every painting, every piece of art that demands our sustained focus is a small resistance against the forces that want to keep us skimming.
 
