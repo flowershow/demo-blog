@@ -10,7 +10,7 @@ authors:
 
 Three years ago, I started carrying a sketchbook. I am not a visual artist. My drawings look like they were made by a confident child — bold, inaccurate, and strangely alive. That is exactly why the practice works.
 
-![[photo8.png]]
+![[photo8.jpg]]
 
 ## Permission to Be Bad
 

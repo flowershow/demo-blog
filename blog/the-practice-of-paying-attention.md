@@ -12,7 +12,7 @@ authors:
 
 Mary Oliver said, "Attention is the beginning of devotion." She was talking about poetry, but she could have been talking about any art form. Before the brush touches canvas, before the pen touches paper, there is the act of noticing — sustained, patient, deliberate attention to the world as it actually is.
 
-![[photo7.png]]
+![[photo7.jpg]]
 
 ## What Attention Looks Like
 

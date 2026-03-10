@@ -10,7 +10,7 @@ authors:
 
 There is a line by Wislawa Szymborska — "I prefer the absurdity of writing poems to the absurdity of not writing poems" — that stopped me mid-step on a Tuesday morning. I was walking to get coffee. The line arrived uninvited, as the best ones do.
 
-![[photo9.png]]
+![[photo9.jpg]]
 
 ## Compression as Power
 

@@ -12,7 +12,7 @@ In Japanese aesthetics, _ma_ is the concept of negative space — the emptiness 
 
 Haiku is _ma_ made literary.
 
-![[photo3.png]]
+![[photo3.jpg]]
 
 ## The Space Around the Words
 
