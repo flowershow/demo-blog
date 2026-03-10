@@ -11,6 +11,8 @@ authors:
 
 No one looks at a landscape innocently. We bring our interior weather to every horizon. A field at dusk can be peaceful or desolate depending on what we carry into it. This is why landscape has been, for centuries, one of art's most enduring metaphors.
 
+![[photo4.png]]
+
 ## The Romantic Inheritance
 
 The Romantics made landscape personal. Before Wordsworth, a mountain was a mountain. After Wordsworth, a mountain was a state of mind. His walks through the Lake District were not just physical journeys — they were spiritual autobiography, the outer world reflecting the inner one.

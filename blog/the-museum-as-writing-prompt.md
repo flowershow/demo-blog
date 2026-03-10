@@ -12,6 +12,8 @@ I write best after looking at art. Not immediately — there's usually a delay, 
 
 Here's how I use museum visits as a generative practice.
 
+![[photo6.png]]
+
 ## Before You Go
 
 Bring a small notebook, not your regular writing journal. Something cheap and unintimidating. The goal is to capture fragments, not compose finished work.

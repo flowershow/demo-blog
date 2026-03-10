@@ -12,6 +12,8 @@ In Japanese aesthetics, _ma_ is the concept of negative space — the emptiness 
 
 Haiku is _ma_ made literary.
 
+![[photo3.png]]
+
 ## The Space Around the Words
 
 A haiku is seventeen syllables surrounded by silence. The poem does not explain itself. It does not provide context, emotion, or meaning. It offers an image — precise, sensory, immediate — and then it stops. The reader must cross the remaining distance alone.

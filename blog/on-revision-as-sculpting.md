@@ -10,6 +10,8 @@ authors:
 
 Michelangelo said that the sculpture already exists inside the marble. The sculptor's job is to remove everything that is not the sculpture. I think about this every time I sit down to revise a poem.
 
+![[photo5.png]]
+
 ## The First Draft Is the Block
 
 A first draft is raw material. It contains the poem, but it also contains everything that is not the poem — the throat-clearing, the false starts, the lines you wrote to get to the line you needed. This excess is not waste. It was necessary. You had to write through it to find the shape hidden inside.

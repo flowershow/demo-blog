@@ -11,6 +11,8 @@ authors:
 
 The word _ekphrasis_ comes from Greek: _ek_ (out) and _phrazein_ (to speak). To speak out. To give voice to something silent. For thousands of years, writers have stood before visual art and tried to translate what they see into words.
 
+![[photo2.png]]
+
 ## A Brief History
 
 The tradition begins with Homer. In Book 18 of the _Iliad_, Hephaestus forges a shield for Achilles, and Homer describes it in extraordinary detail — cities at war and peace, harvests, dances, the ocean rimming the edge. The shield doesn't exist. Homer is describing a work of art that is itself a description of the world. It's mirrors all the way down.

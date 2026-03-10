@@ -10,6 +10,8 @@ authors:
 
 I spent a semester in art school before dropping out to study literature. That semester gave me something no writing workshop ever did: a vocabulary for talking about contrast, temperature, and saturation — words that apply to poems as naturally as they apply to paintings.
 
+![[photo1.jpg]]
+
 ## Warm and Cool
 
 Painters speak of warm and cool colors. Warm tones — reds, oranges, yellows — advance toward the viewer. Cool tones — blues, greens, violets — recede. A painting lives in the tension between these two forces.

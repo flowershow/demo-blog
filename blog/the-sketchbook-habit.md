@@ -10,6 +10,8 @@ authors:
 
 Three years ago, I started carrying a sketchbook. I am not a visual artist. My drawings look like they were made by a confident child — bold, inaccurate, and strangely alive. That is exactly why the practice works.
 
+![[photo8.png]]
+
 ## Permission to Be Bad
 
 The sketchbook gave me something my writing notebook never had: permission to fail visibly. When I write, I am always half-editing, always listening for the wrong word. But when I draw, I have no technique to protect, no reputation to maintain. I am free.

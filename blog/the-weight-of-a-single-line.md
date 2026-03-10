@@ -10,6 +10,8 @@ authors:
 
 There is a line by Wislawa Szymborska — "I prefer the absurdity of writing poems to the absurdity of not writing poems" — that stopped me mid-step on a Tuesday morning. I was walking to get coffee. The line arrived uninvited, as the best ones do.
 
+![[photo9.png]]
+
 ## Compression as Power
 
 Poetry compresses. That is its defining act. A novelist has three hundred pages to build a world; a poet has the length of a breath. This constraint is not a limitation — it is a forge. Meaning is hammered dense.
