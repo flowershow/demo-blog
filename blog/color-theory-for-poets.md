@@ -5,12 +5,11 @@ image: "[[photo1.jpg]]"
 authors:
   - marcus-okafor
 ---
-
 # Color Theory for Poets
 
 I spent a semester in art school before dropping out to study literature. That semester gave me something no writing workshop ever did: a vocabulary for talking about contrast, temperature, and saturation — words that apply to poems as naturally as they apply to paintings.
 
-![[photo1.jpg]]
+![[photo1.jpg|350]]
 
 ## Warm and Cool
 

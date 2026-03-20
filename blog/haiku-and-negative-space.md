@@ -5,14 +5,13 @@ image: "[[photo3.jpg]]"
 authors:
   - sana-hayashi
 ---
-
 # Haiku and Negative Space
 
 In Japanese aesthetics, _ma_ is the concept of negative space — the emptiness between objects that gives them definition. It is the silence between notes, the white of the canvas around a single branch of plum blossoms, the pause between breaths in a conversation.
 
 Haiku is _ma_ made literary.
 
-![[photo3.jpg]]
+![[photo3.jpg|350]]
 
 ## The Space Around the Words
 

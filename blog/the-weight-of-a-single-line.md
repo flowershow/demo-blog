@@ -5,12 +5,11 @@ image: "[[photo9.jpg]]"
 authors:
   - elena-voss
 ---
-
 # The Weight of a Single Line
 
 There is a line by Wislawa Szymborska — "I prefer the absurdity of writing poems to the absurdity of not writing poems" — that stopped me mid-step on a Tuesday morning. I was walking to get coffee. The line arrived uninvited, as the best ones do.
 
-![[photo9.jpg]]
+![[photo9.jpg|350]]
 
 ## Compression as Power
 

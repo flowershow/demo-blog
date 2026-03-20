@@ -5,14 +5,11 @@ image: "[[photo6.png]]"
 authors:
   - elena-voss
 ---
-
-# The Museum as Writing Prompt
-
 I write best after looking at art. Not immediately — there's usually a delay, an incubation period where the images settle into some deeper layer of attention. But the connection is reliable. A good hour in a gallery produces a good week of writing.
 
 Here's how I use museum visits as a generative practice.
 
-![[photo6.png]]
+![[photo6.png|300]]
 
 ## Before You Go
 

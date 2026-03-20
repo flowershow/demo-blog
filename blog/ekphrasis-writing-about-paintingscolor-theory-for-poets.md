@@ -6,12 +6,11 @@ authors:
   - elena-voss
   - sana-hayashi
 ---
-
 # Ekphrasis: Writing About Paintings
 
-The word _ekphrasis_ comes from Greek: _ek_ (out) and _phrazein_ (to speak). To speak out. To give voice to something silent. For thousands of years, writers have stood before visual art and tried to translate what they see into words.
+The word _ekphrasis_ comes from Greek: _ek_ (out) and phrazein (to speak). To speak out. To give voice to something silent. For thousands of years, writers have stood before visual art and tried to translate what they see into words.
 
-![[photo2.png]]
+![[photo2.png|350]]
 
 ## A Brief History
 

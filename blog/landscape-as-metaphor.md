@@ -6,12 +6,11 @@ authors:
   - sana-hayashi
   - marcus-okafor
 ---
-
 # Landscape as Metaphor
 
 No one looks at a landscape innocently. We bring our interior weather to every horizon. A field at dusk can be peaceful or desolate depending on what we carry into it. This is why landscape has been, for centuries, one of art's most enduring metaphors.
 
-![[photo4.jpg]]
+![[photo4.jpg|350]]
 
 ## The Romantic Inheritance
 

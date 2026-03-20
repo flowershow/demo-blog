@@ -10,7 +10,7 @@ authors:
 
 Michelangelo said that the sculpture already exists inside the marble. The sculptor's job is to remove everything that is not the sculpture. I think about this every time I sit down to revise a poem.
 
-![[photo5.png]]
+![[photo5.png|350]]
 
 ## The First Draft Is the Block
 
