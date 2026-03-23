@@ -1,6 +1,6 @@
 ---
 description: What haiku and minimalist painting share — an exploration of negative space, silence, and the art of leaving room for the viewer.
-date: 2026-01-18
+date: 2026-03-18
 image: "[[photo3.jpg]]"
 authors:
   - sana-hayashi
